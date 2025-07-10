@@ -1,0 +1,1 @@
+/Users/erictan/projects/rust_metacamp/capstone/target/debug/capstone: /Users/erictan/projects/rust_metacamp/capstone/src/location.rs /Users/erictan/projects/rust_metacamp/capstone/src/main.rs /Users/erictan/projects/rust_metacamp/capstone/src/transaction.rs
